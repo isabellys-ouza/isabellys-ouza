@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=olá%2C+eu+sou+Isabelly+✦&fontColor=C8E6C0&fontSize=36&fontAlign=50&fontAlignY=65&animation=fadeIn&fontFamily=Georgia" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5&height=120&section=header&text=olá%2C+eu+sou+Isabelly+✦&fontColor=C8E6C0&fontSize=36&fontAlign=50&fontAlignY=65&animation=fadeIn&fontFamily=Georgia" />
 
 <br/>
 
@@ -27,6 +27,6 @@ Sempre buscando aprender e compartilhar conhecimento.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5&height=80&section=footer" />
 
 </div>
