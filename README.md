@@ -6,7 +6,11 @@
 
 Natural do rio de janeiro, atualmente graduanda em Ciência da Computação na UVA. Cursei Programação <br> de Sistemas JAVA na FAETEC e foi assim que me apaixonei por backend.<br>
 Sempre buscando aprender e compartilhar conhecimento.
+<br/>
 
+<br/>
+
+**`Desenvolvedora Backend`**
 
 <br/>
 
